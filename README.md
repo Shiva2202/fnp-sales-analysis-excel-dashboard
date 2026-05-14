@@ -98,12 +98,12 @@ The interactive Excel dashboard includes:
 
 1. **Clone or download** this repository
    ```bash
-   git clone https://github.com/your-username/fnp-sales-analysis.git
+   git clone https://github.com/Shiva2202/fnp-sales-analysis.git
    ```
 
 2. **Open the Excel file**
    ```
-   Book1_AutoRecovered_.xlsx
+   Book1_.xlsx
    ```
 
 3. **Enable editing** if prompted (required for slicers and pivot tables to work)
@@ -121,7 +121,7 @@ The interactive Excel dashboard includes:
 ```
 fnp-sales-analysis/
 │
-├── Book1_AutoRecovered_.xlsx        # Main Excel workbook with dashboard
+├── Book1_.xlsx        # Main Excel workbook with dashboard
 ├── Dashboard.png                    # Dashboard screenshot
 ├── orders.csv                       # Raw orders data (1,000 records)
 ├── customers.csv                    # Customer details (204 records)
